@@ -6,7 +6,7 @@ Student Name: Santhosh Reddy Kistipati
 Student ID: 700776947
 Easyly access the Link : https://github.com/santhoshK12/Bonusassignment
 
-# 💡 Assignment: Question Answering with Transformers & Conditional GAN (cGAN)
+#  Assignment: Question Answering with Transformers & Conditional GAN (cGAN)
 
 This README covers two mini-projects:
 
